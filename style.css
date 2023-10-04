@@ -2,6 +2,7 @@
   background-color: #4d0f00;
   height: 600px;
   width: 500px;
+  overflow: hidden;
 }
 
 .frame {
@@ -16,4 +17,11 @@
   height: 150px;
   background-color: #efb762;
   margin: 20px auto;
+}
+
+.two {
+  width: 475px;
+  height: 200px;
+  background-color: #8f0401;
+  margin: auto;
 }
